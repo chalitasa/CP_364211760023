@@ -59,3 +59,4 @@ total = x//y//z
 print(total)
 # แสดงผลค่าตัวแปร total formatted print  -- > print(f{...})
 print(f'total = {total}')
+

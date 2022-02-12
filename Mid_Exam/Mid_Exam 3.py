@@ -38,3 +38,4 @@ print(mydict)
 # แสดงข้อมูล mylist ทางหน้าจอภาพ
 print(mydict)
 
+
