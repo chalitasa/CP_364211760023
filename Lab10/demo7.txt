@@ -1,0 +1,1 @@
+delete and writing new contents with mode 'w'
